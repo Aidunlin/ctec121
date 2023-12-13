@@ -1,0 +1,1 @@
+print(input("Enter a sentence: ").replace(" ", "_"))
